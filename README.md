@@ -12,7 +12,7 @@ Instead of manually drawing masks or bounding boxes, simply upload an image, pro
 
 # 🎬 Demo
 
-![Demo](docs/demo.mp4)
+<video src="docs/demo.mp4" controls width="900"></video>
 
 ### Web Interface
 
@@ -59,25 +59,25 @@ Instead of manually drawing masks or bounding boxes, simply upload an image, pro
 ## Original Image (prompt: cuttedapple)
 Note: Specifying object without spaces can improve accuracy
 
-![Input](docs/input.jpg)
+![Input](docs/input.png)
 
 ---
 
 ## GroundingDINO Detection
 
-![Detection](docs/detection.jpg)
+![Detection](docs/detection.png)
 
 ---
 
 ## SAM2 Segmentation
 
-![Segmentation](docs/segmentation.jpg)
+![Segmentation](docs/segmentation.png)
 
 ---
 
 ## Final Annotation
 
-![Annotation](docs/final-result.jpg)
+![Annotation](docs/final-result.png)
 
 ---
 
